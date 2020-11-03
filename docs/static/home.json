@@ -5,8 +5,8 @@
     "subheading": "Hospital information system",
     "survey": "医院内部管理系统是三人团队打造的小型医院信息管理系统。",
     "projectTeam": {
-      "groupLeader": "张玉林",
-      "teamMembers": "张凤莲 田让让",
+      "groupLeader": "安澜",
+      "teamMembers": "赵宇 陶正军",
       "technology": "vue.js webpack vue-cli vue-router vue-resource ESlint ElementUI stylu github团队协作 Git版本控制工具"
     },
     "introduce": {
